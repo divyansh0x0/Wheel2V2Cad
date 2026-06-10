@@ -1,0 +1,5 @@
+﻿"MagnetDiameter"= 3.8
+"BackShaftContainerDiameter"=6
+"D1@Sketch2"="BackShaftContainerDiameter"
+"ShaftLength"= 5
+"MagnetThickness"=2
