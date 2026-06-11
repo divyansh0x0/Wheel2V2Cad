@@ -1,0 +1,15 @@
+﻿"D3@Sketch1" = "BearingBore"
+"D1@Sketch1"= "BearingBore"
+"ThighLength"= 200
+"BearingBore"=4
+"MinShinWidth"= 20
+"HipBore"=27
+"ShinThickness"=10
+"ThighThickness"=30
+"MaxBending"=135
+"MaxStretchingAngle"= 140
+"ThighJointDistance"=157.485
+"D2@Sketch1"="ThighJointDistance"*0.8
+"PivotDistance"=50
+"ShinLength"=100
+"BearingDiameter"= 10

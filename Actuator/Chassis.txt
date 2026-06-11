@@ -1,0 +1,16 @@
+﻿"MotorDriverLength"= 60mm
+"MotorLength"= 60
+"MotorDriverWidth"=45
+"MotorWidth"= 37
+"InnerWallThickness"=3
+"BatteryWidth"= 60
+"ChassisHeight"=140000
+"OutterWallThickness"=4
+"CompartmentHeight"=37
+"CompartmentWidth"= "MotorDriverLength"
+"MotorDiameter"=37
+"BatteryHeight"=24.2019
+"MotorDriverHeight"=20
+"CircuitHeight"=30
+"FanThickness"= 10
+"FanHeight"=50
