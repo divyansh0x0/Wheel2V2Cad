@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Allow traversal into directories
+!*/
+
+# Keep SOLIDWORKS source files
+!*.[sS][lL][dD][pP][rR][tT]
+!*.[sS][lL][dD][aA][sS][mM]
+!*.[sS][lL][dD][dD][rR][wW]
+!*.txt
+# Re-ignore SOLIDWORKS lock/temp files
+~$*
+
+# Keep this file
+!.gitignore

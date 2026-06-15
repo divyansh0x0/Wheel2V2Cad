@@ -1,0 +1,8 @@
+﻿"PlanetTeeth" = 40
+"SunTeeth"= 12
+"Module" = 1
+"PressureAngle" = 20deg
+"GearWidth"=10
+"BearingDiameter" = 13
+"ShaftDiameter"= 6.5
+"BearingBore" = 4
