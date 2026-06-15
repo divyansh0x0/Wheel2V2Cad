@@ -1,0 +1,8 @@
+﻿"SunTeeth"= 13
+"PlanetTeeth"= 23
+"module"= 1
+"OrbitDiameter"= "SunTeeth" * "module" + "PlanetTeeth" * "module"
+"RingDiameter"= ( "SunTeeth" + 2 * "PlanetTeeth" ) * "module"
+"SunBore"= 12
+"BearingBore"= 4mm
+

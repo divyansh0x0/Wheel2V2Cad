@@ -1,0 +1,13 @@
+"NumberOfTeeth" = 100
+"Module" = 2
+"PressureAngle" = 20deg
+"PitchDiameter" = "NumberOfTeeth" * "Module"
+"OutsideDiameter" = ("NumberOfTeeth" + 2) * "Module"
+"WholeDepthDia" = ("NumberOfTeeth" - 2.5) * "Module"
+"BaseCircleDia" = "PitchDiameter" * cos("PressureAngle")
+"Addendum" = 1 * "Module"
+"Dedendum" = 1.25 * "Module"
+"WholeDepth" = 2.25 * "Module"
+"CircularPitch" = pi * "Module"
+"ToothThickness" = pi * "Module" / 2
+"FilletRadius" = "Module" / 2
