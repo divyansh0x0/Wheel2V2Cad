@@ -4,7 +4,7 @@
 "MotorWidth"= 37
 "InnerWallThickness"=3
 "BatteryWidth"= 60
-"OuterWallThickness" = 8
+"OuterWallThickness" = 6
 "CompartmentHeight"=37
 "CompartmentWidth"= "MotorDriverLength"
 "MotorDiameter"=37
@@ -29,5 +29,5 @@
 "BearingDiameter"= 10
 "CircuitLength"=50
 "ChessisInnerWidth"= "OuterWallThickness" * 2 + "MotorDriverLength" + "MotorDiameter" + "InnerWallThickness" * 3 + "CircuitLength"
-"ChessisHeight"= "BatteryHeight" + 10 + "InnerWallThickness" + "MotorDriverHeight"*2 + 10 + "OuterWallThickness" * 2
+"ChessisHeight"= "BatteryHeight" + 10 + "InnerWallThickness" + "MotorDiameter" + 10 + "OuterWallThickness" * 2
 "ChassisWidth"= "MotorDriverWidth"*4+30
