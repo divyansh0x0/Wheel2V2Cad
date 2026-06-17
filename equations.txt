@@ -1,15 +1,15 @@
 ﻿"MotorDriverLength"= 60mm
 "MotorLength"= 60
-"MotorDriverWidth"=45
+"MotorDriverWidth"=44
 "MotorWidth"= 37
 "InnerWallThickness"=3
 "BatteryWidth"= 60
-"OuterWallThickness" = 6
+"OuterWallThickness" = 8
 "CompartmentHeight"=37
 "CompartmentWidth"= "MotorDriverLength"
 "MotorDiameter"=37
 "BatteryHeight"=24.2019
-"MotorDriverHeight"=20
+"MotorDriverHeight"=28
 "CircuitHeight"=30
 "FanThickness"= 10
 "FanHeight"=50
@@ -17,7 +17,7 @@
 "BearingBore"=4
 "MinShinWidth"= 20
 "ShinThickness"=10
-"PivotDistance"=40
+"PivotDistance"=30
 "ThighLength"= 200
 "KneeLength" =20
 "HipBore"=27
@@ -25,8 +25,9 @@
 "MaxBending"=135
 "MaxStretchingAngle"= 140
 "ThighJointDistance"=157.485
-"ShinLength"=100
+"ShinLength"=120
 "BearingDiameter"= 10
 "CircuitLength"=50
-"ChessisInnerWidth"= "OuterWallThickness" * 2 + "MotorDriverLength" * 2 + "InnerWallThickness" * 3 + "CircuitLength"
-
+"ChessisInnerWidth"= "OuterWallThickness" * 2 + "MotorDriverLength" + "MotorDiameter" + "InnerWallThickness" * 3 + "CircuitLength"
+"ChessisHeight"= "BatteryHeight" + 10 + "InnerWallThickness" + "MotorDriverHeight"*2 + 10 + "OuterWallThickness" * 2
+"ChassisWidth"= "MotorDriverWidth"*4+30

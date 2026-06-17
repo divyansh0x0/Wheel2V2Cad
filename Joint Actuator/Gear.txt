@@ -1,4 +1,4 @@
-﻿"PlanetTeeth" = 40
+﻿"PlanetTeeth" = 20
 "SunTeeth"= 12
 "Module" = 1
 "PressureAngle" = 20deg
